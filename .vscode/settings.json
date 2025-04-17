@@ -5,5 +5,7 @@
         "Multuplicator",
         "tline"
     ],
-    "cSpell.language": "en,ru,ru-RU,en-US"
+    "cSpell.language": "en,ru,ru-RU,en-US",
+    "IDX.aI.enableInlineCompletion": true,
+    "IDX.aI.enableCodebaseIndexing": true
 }

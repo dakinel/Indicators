@@ -38,7 +38,7 @@
     "homepage": "https://github.com/debut-js/Indicators",
     "repository": {
         "type": "git",
-        "url": "git@github.com:debut-js/Indicators.git"
+        "url": "https://github.com/dakinel/Indicators.git"
     },
     "scripts": {
         "build": "rollup -c ./rollup.config.js",
